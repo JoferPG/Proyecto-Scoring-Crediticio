@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 256f9afaa77e30b6e9c535e97c6f7fbd18f40cea JF_PalenciaGallo <palenciajose14@gmail.com> 1789199493 -0500	commit (initial): feat: v1.0 de generate data
+256f9afaa77e30b6e9c535e97c6f7fbd18f40cea 096c4d9f2b8cc22bc728743361b30a488f710898 JF_PalenciaGallo <palenciajose14@gmail.com> 1789200762 -0500	commit: feat: error en linea 121 - corregido
+096c4d9f2b8cc22bc728743361b30a488f710898 b75548f2d7ff0a5e4d21d93a73d2dc1158f20085 JF_PalenciaGallo <palenciajose14@gmail.com> 1789200925 -0500	commit: feat: reparacion final de la linea 121 v.2
+b75548f2d7ff0a5e4d21d93a73d2dc1158f20085 5e5f7f0a74eedda59ccbf5ecd24b71bd78060636 JF_PalenciaGallo <palenciajose14@gmail.com> 1789201045 -0500	commit: feat: se retira coma de Bogotá (a) linea 31

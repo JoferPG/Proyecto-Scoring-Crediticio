@@ -19,4 +19,3 @@ un **modelo de scoring crediticio** para automatizar la decisión de aprobacion.
 ****DEFINICIÓN DEL TARGET****
 Buen pagador (0): clientes que pago todas sus cuotas sin mora > 30 dias.
 Mal Pagador (1): Cliente que incorrio en mora > 30 dias en los primeros 12 meses.
-

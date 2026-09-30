@@ -19,3 +19,13 @@ un **modelo de scoring crediticio** para automatizar la decisión de aprobacion.
 ****DEFINICIÓN DEL TARGET****
 Buen pagador (0): clientes que pago todas sus cuotas sin mora > 30 dias.
 Mal Pagador (1): Cliente que incorrio en mora > 30 dias en los primeros 12 meses.
+
+=====================================================================================================================================
+****PREGUNTAS GENERADAS****
+
+1) Cual es la tasa exacta de default en tu dataset?
+2) Cual es el ratio de desbalanceo?
+3) Cuales son las 3 variables más correlacionadas con default ?
+4) Hay valores nulos ? Outliers extremos?
+5) Que ciudades tienen mayor tasa de default?
+6) El estrato muestra un patróm monotóno con el desault ? 

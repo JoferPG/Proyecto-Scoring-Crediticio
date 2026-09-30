@@ -24,8 +24,28 @@ Mal Pagador (1): Cliente que incorrio en mora > 30 dias en los primeros 12 meses
 ****PREGUNTAS GENERADAS****
 
 1) Cual es la tasa exacta de default en tu dataset?
+    > Se presenta una tasa de default de 30.10% en el dataset
+
 2) Cual es el ratio de desbalanceo?
+    > El ratio de desbalanceo es de 2.3:1 (Buenas:Malas)
+
 3) Cuales son las 3 variables más correlacionadas con default ?
+    > Mora_maxima_12m
+    > Num_Creditos_Activos
+    > Num_Consulta_6m
+
 4) Hay valores nulos ? Outliers extremos?
+    > En el dataset no presentamos valores nulos 
+    > los Outliers más extremos los presentamos en:
+        1) ingreso_mensual  - 101 outliers (10.10%)
+        2) mora_maxima_12m  - 161 outliers (16.10%)
+        3) antiguedad_laboral_meses - 56 outliers ( 5.60%)
+
 5) Que ciudades tienen mayor tasa de default?
+    > Bogota
+    > Barranquilla
+    > Bucaramanga
+
 6) El estrato muestra un patróm monotóno con el desault ? 
+    > En la grafica no se presenta un patron monotóno; es un patron
+    > irregular, fluente o no lineal.
